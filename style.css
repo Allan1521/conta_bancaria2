@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(243, 152, 138, 0.97);
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: rgb(255, 30, 0);
+    color:white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav{
+    background-color: #343434;
+    padding: 10px;
+    text-align: center;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+}
+
+nav a:hover{
+    text-decoration: none;
+}
+
+.container{
+    padding: 20px;
+}
+h2{
+    text-align: center;
+}
